@@ -1,0 +1,40 @@
+body{
+  background-color: lightblue;
+}
+
+#boite{
+  text-align:center;
+  margin-top:30px;
+  color: #F0FFFF;
+}
+
+#contenue2{
+  display:block;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size:50px;
+  font-weight: bold;
+}
+
+
+#ACS2{
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size:50px;
+  letter-spacing:20px;
+}
+
+#line{
+  margin-top: 1;
+}
+
+#code{
+  background-color:red;
+}
+
+#ACS1{
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  letter-spacing: 45px;
+  font-size: 30px;
+  color: black;
+  padding-left: 45px;
+  margin-top: -20px;
+}
