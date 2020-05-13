@@ -6,6 +6,7 @@ body{
   text-align:center;
   margin-top:30px;
   color: #F0FFFF;
+  transitin-duration:1s;
 }
 
 #contenue2{
